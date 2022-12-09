@@ -8,8 +8,8 @@ I have lived in multiple cities in Mexico and the past 5 years I lived in Stockh
 
 Skills: Excel, SQL, Tableau, Adobe Photoshop, InDesign, Illustrator, Lightroom. 
 
-Let's connect on LinkedIn:
-www.linkedin.com/in/joanasn
+Check out my page:
+https://joanasn.github.io/
 
 <!---
 Joanasn/Joanasn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
