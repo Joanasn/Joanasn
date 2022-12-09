@@ -11,6 +11,9 @@ Skills: Excel, SQL, Tableau, Adobe Photoshop, InDesign, Illustrator, Lightroom.
 Check out my page:
 https://joanasn.github.io/
 
+Let's connect on LinkedIn:
+www.linkedin.com/in/joanasn/
+
 <!---
 Joanasn/Joanasn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
