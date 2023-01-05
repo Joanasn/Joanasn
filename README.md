@@ -6,7 +6,7 @@ Programming sparked my interest lately and for the last year I finally decided t
 
 I have lived in multiple cities in Mexico and the past 5 years I lived in Stockholm, Sweden, which helped me enforce my ability to adapt and tackle unexpected problems. Now my home is in Los Angeles and really excited to discover new challenges in the city. 
 
-Skills: 
+:bulb:Skills: 
 - Excel 
 - SQL
 - Tableau
@@ -20,12 +20,12 @@ https://joanasn.github.io/
 Let's connect on LinkedIn:
 www.linkedin.com/in/joanasn/
 
-:bar_chart: Projects on Tableau:
+:bar_chart:Projects on Tableau:
 
 - DVD rental Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/DVDrentalProject/DVDrental-Project">HERE</a>
 - Personal Expenses Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/ExpensesProject">HERE</a>
 
-:computer: Projects on SQL:
+:computer:Projects on SQL:
 
 - DVD rental Project: Click <a href="https://github.com/Joanasn/SQL-Projects/blob/main/Project-DVD%20rental-PostgreSQL.sql">HERE</a>
 - Personal Expenses Project: Click <a href="https://github.com/Joanasn/PortfolioProject/blob/main/Queries.sql">HERE</a>
