@@ -23,7 +23,7 @@ www.linkedin.com/in/joanasn/
 :bar_chart:Projects on Tableau:
 
 - DVD rental Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/DVDrentalProject/DVDrental-Project">HERE</a>
-- Personal Expenses Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/ExpensesProject">HERE</a>
+- Personal Expenses Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/Conclussion">HERE</a>
 
 :computer:Projects on SQL:
 
