@@ -6,7 +6,7 @@ Programming sparked my interest lately and for the last year I finally decided t
 
 I have lived in multiple cities in Mexico and the past 5 years I lived in Stockholm, Sweden, which helped me enforce my ability to adapt and tackle unexpected problems. Now my home is in Los Angeles and really excited to discover new challenges in the city. 
 
-<h2><strong>:bulb: Skills</strong></h2> 
+<h3><strong>:bulb: Skills</strong></h3> 
 - Excel 
 - SQL
 - Tableau
