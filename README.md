@@ -1,7 +1,7 @@
 Hi 👋
 My name is Joana Sánchez and I am a curious and passionate beginner in Data Analytics👩🏾‍💻, with experience in Excel, SQL and Tableau.
 
-<h1><strong>ABOUT ME</strong>
+<h1><strong>ABOUT ME</strong></h1>
 My background is in Textile Design and Teaching which enabled me to develop soft skills such as communication, problem solving, critical thinking, patience and building trust and relationships. 
 Programming sparked my interest lately and for the last year I finally decided to make a career shift into Data Analytics. I got immersed in multiple courses online in SQL, Tableau and Excel and now I am ready to make the professional leap. 
 
