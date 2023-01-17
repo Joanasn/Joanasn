@@ -26,6 +26,7 @@ https://joanasn.github.io/
 Let's connect on LinkedIn:
 www.linkedin.com/in/joanasn/
 
+💻 Currently improving my skills on SQL, Tableau and Excel and posting projects constantly.
 
 <!---
 Joanasn/Joanasn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
