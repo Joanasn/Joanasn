@@ -6,6 +6,8 @@ Programming sparked my interest lately and for the last year I finally decided t
 
 I have lived in multiple cities in Mexico and the past 5 years I lived in Stockholm, Sweden, which helped me enforce my ability to adapt and tackle unexpected problems. Now my home is in Los Angeles and really excited to discover new challenges in the city. 
 
+Currently improving my skills on SQL, Tableau and Excel and posting projects constantly.
+
 <h3><strong>:bulb: Skills</strong></h3> 
 - Excel, Google Sheets, SQL (PostgreSQL, Oracle, Microsoft SQL Server), Tableau, Adobe Photoshop, InDesign, Illustrator, Lightroom, Visual Studio Code. 
 
@@ -26,7 +28,7 @@ https://joanasn.github.io/
 Let's connect on LinkedIn:
 www.linkedin.com/in/joanasn/
 
-💻 Currently improving my skills on SQL, Tableau and Excel and posting projects constantly.
+
 
 <!---
 Joanasn/Joanasn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
