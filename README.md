@@ -1,4 +1,4 @@
-👋 Hi, I'm Joana Sánchez. I am a Data Analyst living in Los Angeles, CA.  and I am a curious and passionate beginner in Data Analytics👩🏾‍💻, with experience in Excel, SQL and Tableau.
+👋 Hi, I'm Joana Sánchez. I am a Data Analyst living in Los Angeles, CA.  
 
 <h3><strong>🙋‍♀️ ABOUT ME</strong></h3>
 My background is in Textile Design and Teaching which enabled me to develop soft skills such as communication, problem solving, critical thinking, patience and building trust and relationships. 
