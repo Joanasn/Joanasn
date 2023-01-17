@@ -7,12 +7,7 @@ Programming sparked my interest lately and for the last year I finally decided t
 I have lived in multiple cities in Mexico and the past 5 years I lived in Stockholm, Sweden, which helped me enforce my ability to adapt and tackle unexpected problems. Now my home is in Los Angeles and really excited to discover new challenges in the city. 
 
 <h3><strong>:bulb: Skills</strong></h3> 
-- Excel 
-- SQL
-- Tableau
-- Adobe Photoshop, InDesign, Illustrator, Lightroom
-- Google Sheets 
-- Visual Studio Code 
+- Excel, Google Sheets, SQL (PostgreSQL, Oracle, Microsoft SQL Server), Tableau, Adobe Photoshop, InDesign, Illustrator, Lightroom, Visual Studio Code. 
 
 <h3><strong>:bar_chart:Projects on Tableau:</strong></h3>
 
