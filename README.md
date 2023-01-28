@@ -8,7 +8,7 @@ I speak three languages (Spanish, English and Swedish) and looking for my fourth
 
 Contantly improving my skills and posting projects constantly on SQL, Tableau, Python and Excel.
 
-I have a blog on <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/Conclussion">Medium</a> where among other topics, I explain my projects. 
+I have a blog on <a href="https://medium.com/@joanasnchez">Medium</a> where among other topics, I explain my projects. 
 
 Check out my page:
 https://joanasn.github.io/
