@@ -1,32 +1,34 @@
-👋 Hi, I'm Joana Sánchez. I am a Data Analyst living in Los Angeles, CA.  
+👋 Hi, I'm Joana Sánchez. I am a self-taught Data Analyst living in Los Angeles, CA.  
 
 <h3><strong>🙋‍♀️ ABOUT ME</strong></h3>
-My background is in Textile Design and Teaching which enabled me to develop soft skills such as communication, problem solving, critical thinking, patience and building trust and relationships. 
-Programming sparked my interest lately and for the last year I finally decided to make a career shift into Data Analytics. I got immersed in multiple courses online in SQL, Tableau and Excel and now I am ready to make the professional leap. 
+I am currently looking for a full time job as a data analyst. I have skills in sql, Tableau, Excel and Python. 
+I am originally from Mexico but lived in Stockholm, Sweden the last 5 years and now my home is in Los Angeles, CA due to relocation.
+I speak three languages (Spanish, English and Swedish) and looking for my fourth. Although my background is in Textile Design and Teaching, my professional path enabled me to develop soft skills such as communication, problem solving, critical thinking, patience and building trust and relationships. 
 
-I have lived in multiple cities in Mexico and the past 5 years I lived in Stockholm, Sweden, which helped me enforce my ability to adapt and tackle unexpected problems. Now my home is in Los Angeles and really excited to discover new challenges in the city. 
+Contantly improving my skills and posting projects constantly on SQL, Tableau, Python and Excel.
 
-Currently improving my skills on SQL, Tableau and Excel and posting projects constantly.
-
-<h3><strong>:bulb: Skills</strong></h3> 
-- Excel, Google Sheets, SQL (PostgreSQL, Oracle, Microsoft SQL Server), Tableau, Adobe Photoshop, InDesign, Illustrator, Lightroom, Visual Studio Code. 
-
-<h3><strong>:bar_chart:Projects on Tableau:</strong></h3>
-
-- Personal Expenses Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/Conclussion">HERE</a>
--  DVD rental Project: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/DVDrentalProject/DVDrental-Project">HERE</a>
-
-
-<h3><strong>:computer:Projects on SQL:</strong></h3>
-
-- Personal Expenses Project: Click <a href="https://github.com/Joanasn/PortfolioProject/blob/main/Queries.sql">HERE</a>
-- DVD rental Project: Click <a href="https://github.com/Joanasn/SQL-Projects/blob/main/Project-DVD%20rental-PostgreSQL.sql">HERE</a>
+I have a blog on <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/Conclussion">Medium</a> where asmong other topics, I explain my projects. 
 
 Check out my page:
 https://joanasn.github.io/
 
 Let's connect on LinkedIn:
 www.linkedin.com/in/joanasn/
+
+<h3><strong>:bar_chart:Projects on Tableau:</strong></h3>
+
+- Mestrual cycle: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/Period_16741666173880/Dashboard2">HERE</a>
+- Personal Expenses: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/PersonalExpenses-Project/Conclussion">HERE</a>
+- DVD rental: Click <a href="https://public.tableau.com/app/profile/joanasn/viz/DVDrentalProject/Project-Story">HERE</a>
+
+
+<h3><strong>:computer:Projects on SQL:</strong></h3>
+
+- Menstrual cycle: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Period%20project%20sql.sql">HERE</a>
+- Personal Expenses: Click <a href="https://github.com/Joanasn/PortfolioProject/blob/main/Queries.sql">HERE</a>
+- DVD rental: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Project-DVD%20rental-PostgreSQL.sql">HERE</a>
+
+
 
 
 
