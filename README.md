@@ -1,6 +1,7 @@
+<h3><strong>🙋‍♀️ ABOUT ME</strong></h3>
+
 👋 Hi, I'm Joana Sánchez. I am a self-taught Data Analyst living in Los Angeles, CA.  
 
-<h3><strong>🙋‍♀️ ABOUT ME</strong></h3>
 I am currently looking for a full time job as a data analyst. I have skills in sql, Tableau, Excel and Python. 
 
 I am originally from Mexico but lived in Stockholm, Sweden the last 5 years and now my home is in Los Angeles, CA due to relocation.
