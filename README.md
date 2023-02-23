@@ -2,12 +2,13 @@
 
 👋 Hi, I'm Joana Sánchez. I am a self-taught Data Analyst living in Los Angeles, CA.  
 
-I am currently looking for a full time job as a data analyst. I have skills in sql, Tableau, Excel, R and Python. 
+I am a self-taught Data Analyst with experience in R, Python, sql, Excel and Tableau. I gained my knowledge through diverse courses on Coursera and Udemy such as Google Data Analytics Professional Certificate and my Portfolio Projects.
 
-I am originally from Mexico but lived in Stockholm, Sweden the last 5 years and now my home is in Los Angeles, CA due to relocation.
-I speak three languages (Spanish, English and Swedish) and looking for my fourth. Although my background is in Textile Design and Teaching, my professional path enabled me to develop soft skills such as communication, problem solving, critical thinking, patience and building trust and relationships. 
+I extract and organize data, conduct analysis to offer strategic and business minded insights to help business decisions. I extract, manipulate, cleanse and analyze data mainly data from Excel, a structured query language (sql) such as PostgreSQL, Microsoft SQL, Oracle Developer or R and Python. I then create visualizations like dashboards and stories on Tableau. I am constantly improving my skills and posting my projects on my Github: joanasn.github.io/
 
-Contantly improving my skills and posting projects constantly on SQL, Tableau, Python and Excel.
+I speak three languages Spanish, English and Swedish and I am an extremely fast learner willing to learn more on the field. I work well independently and enjoy learning new skills. I am originally from Mexico but lived in Stockholm, Sweden the last 5 years and now my home is in Los Angeles, CA due to relocation.
+
+Contantly improving my skills and posting projects constantly on SQL, Tableau, Python, R and Excel.
 
 I have a blog on <a href="https://medium.com/@joanasnchez">Medium</a> where among other topics, I explain my projects. 
 
