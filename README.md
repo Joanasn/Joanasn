@@ -28,7 +28,7 @@ www.linkedin.com/in/joanasn/
 
 <h3><strong>:computer:Projects on SQL:</strong></h3>
 
-- Video games: - Video games: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Queries%20-%20Videogames%20project.sql">HERE</a>
+- Video games: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Queries%20-%20Videogames%20project.sql">HERE</a>
 - Menstrual cycle: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Period%20project%20sql.sql">HERE</a>
 - Personal Expenses: Click <a href="https://github.com/Joanasn/PortfolioProject/blob/main/Queries.sql">HERE</a>
 - DVD rental: Click <a href="https://github.com/Joanasn/sql-Projects/blob/main/Project-DVD%20rental-PostgreSQL.sql">HERE</a>
