@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Joana Sánchez. I am a self-taught Data Analyst living in Los Angeles, CA.  
 
-I am a self-taught Data Analyst with experience in R, Python, sql, Excel and Tableau. I gained my knowledge through diverse courses on Coursera and Udemy such as Google Data Analytics Professional Certificate and my Portfolio Projects.
+I have experience in R, Python, sql, Excel and Tableau. I gained my knowledge through diverse courses on Coursera and Udemy such as Google Data Analytics Professional Certificate and my Portfolio Projects.
 
 I extract and organize data, conduct analysis to offer strategic and business minded insights to help business decisions. I extract, manipulate, cleanse and analyze data mainly data from Excel, a structured query language (sql) such as PostgreSQL, Microsoft SQL, Oracle Developer or R and Python. I then create visualizations like dashboards and stories on Tableau. I am constantly improving my skills and posting my projects on my Github: joanasn.github.io/
 
